@@ -1,0 +1,13 @@
+Weekly Report: [15/04/2024 - 19/04/2024]:
+
+in Progress:
+
+MOB-3518 Mobile app - To display delay minutes in the format nh nm format in flight list & T/A milestones pageMOB-3893
+
+TR - MOB-3476 TOBT/Actual block, landed and take off to be editable in Mobile
+
+
+
+
+
+
